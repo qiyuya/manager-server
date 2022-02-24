@@ -6,11 +6,13 @@ const onerror = require('koa-onerror')
 const bodyparser = require('koa-bodyparser')
 const logger = require('koa-logger')
 const log4js = require('./utils/log4j')
-const index = require('./routes/index')
 const users = require('./routes/users')
+const router = require('koa-router')()
 
 // error handler
 onerror(app)
+
+require('./config/db')
 
 // middlewares
 app.use(bodyparser({
@@ -29,14 +31,14 @@ app.use(views(__dirname + '/views', {
 }) */
 // logger
 app.use(async (ctx, next) => {
-  const start = new Date()
+   log4js.info(`get params:${JSON.stringify(ctx.request.query)}`)
+   log4js.info(`post params:${JSON.stringify(ctx.request.body)}`)
   await next()
-  log4js.info(`log output`)
-
-})
  
-// routes
-app.use(index.routes(), index.allowedMethods())
+
+}) 
+router.prefix('/api')
+router.use(users.routes(), users.allowedMethods())
 app.use(users.routes(), users.allowedMethods())
 
 // error-handling
