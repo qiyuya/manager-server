@@ -9,11 +9,8 @@ const CODE = {
   AUTH_ERROR: 500001, // 认证失败或TOKEN过期
 }
 module.exports = {
-  /**
-   * 分页结构封装
-   * @param {number} pageNum 
-   * @param {number} pageSize 
-   */ 
+  // 分页结构封装
+   
    
   pager({ pageNum = 1, pageSize = 10 }) {
     pageNum *= 1
@@ -38,5 +35,6 @@ module.exports = {
     return {
       code,data,msg
     }
-  }
+  },
+  CODE
 }
