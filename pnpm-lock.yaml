@@ -14,6 +14,7 @@ specifiers:
   koa-static: ^5.0.0
   koa-views: ^6.2.0
   log4js: ^6.3.0
+  md5: ^2.3.0
   mongoose: ^6.2.3
   nodemon: ^1.19.1
   pug: ^2.0.3
@@ -36,6 +37,7 @@ dependencies:
 
 devDependencies:
   log4js: 6.4.1
+  md5: 2.3.0
   nodemon: 1.19.4
 
 packages:
@@ -361,6 +363,10 @@ packages:
       is-regex: 1.1.4
     dev: false
 
+  /charenc/0.0.2:
+    resolution: {integrity: sha1-wKHS86cJLgN3S/qD8UwPxXkKhmc=}
+    dev: true
+
   /chokidar/2.1.8:
     resolution: {integrity: sha512-ZmZUazfOzf0Nve7duiCKD23PFSCs4JPoYyccjUFF3aQkQadqBhfzhjkwBH2mNOG9cTBwhamM37EIsIkZw3nRgg==}
     deprecated: Chokidar 2 does not receive security updates since 2019. Upgrade to chokidar 3 with 15x fewer dependencies
@@ -555,6 +561,10 @@ packages:
       lru-cache: 4.1.5
       shebang-command: 1.2.0
       which: 1.3.1
+    dev: true
+
+  /crypt/0.0.2:
+    resolution: {integrity: sha1-iNf/fsDfuG9xPch7u0LQRNPmxBs=}
     dev: true
 
   /crypto-random-string/1.0.0:
@@ -1611,6 +1621,14 @@ packages:
     engines: {node: '>=0.10.0'}
     dependencies:
       object-visit: 1.0.1
+    dev: true
+
+  /md5/2.3.0:
+    resolution: {integrity: sha512-T1GITYmFaKuO91vxyoQMFETst+O71VUPEU3ze5GNzDm0OWdP8v1ziTaAEPUr/3kLsY3Sftgz242A1SetQiDL7g==}
+    dependencies:
+      charenc: 0.0.2
+      crypt: 0.0.2
+      is-buffer: 1.1.6
     dev: true
 
   /media-typer/0.3.0:
