@@ -70,7 +70,7 @@ router.post('/delete', async (ctx) => {
   // User.updateMany({ $or: [{ userId: 10001 }, { userId: 10002 }] })
   const res = await User.updateMany({ userId: { $in: userIds } }, { state: 2 })
   if (res) {
-    ctx.body = util.success(res, `删除成功`)
+    ctx.body = util.success(res, `共删除成功${res.matchedCount}条`)
     return;
   }
   ctx.body = util.fail('删除失败');
