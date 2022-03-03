@@ -25,7 +25,7 @@ router.post('/login', async (ctx) => {
       const data = res._doc
       const token = jwt.sign({
       data
-    }, 'qiyu', { expiresIn: '1h' })
+    }, 'qiyu', { expiresIn: '1d' })
       data.token = token
       ctx.body = util.success(data)
   } else {
