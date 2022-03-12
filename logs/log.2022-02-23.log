@@ -1,0 +1,16 @@
+[2022-02-23T19:51:41.758] [ERROR] error - ReferenceError: ctx is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:28:3
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@4.1.0\node_modules\koa-compose\index.js:42:32)
+    at views (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-views@6.3.1\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@4.1.0\node_modules\koa-compose\index.js:42:32)
+    at serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:15)
+    at async logger (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-logger@3.2.1\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-02-23T19:51:43.101] [ERROR] error - ReferenceError: ctx is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:28:3
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@4.1.0\node_modules\koa-compose\index.js:42:32)
+    at views (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-views@6.3.1\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@4.1.0\node_modules\koa-compose\index.js:42:32)
+    at serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:15)
+    at async logger (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-logger@3.2.1\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)

@@ -1,0 +1,8 @@
+[2022-02-24T20:22:11.463] [ERROR] error - ReferenceError: data is not defined
+    at Object.fail (C:\Users\Administrator\Desktop\UNTITLED\manager-server\utils\util.js:39:12)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\users.js:20:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:35:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async logger (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-logger@3.2.1\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)

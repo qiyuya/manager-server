@@ -1,0 +1,222 @@
+[2022-03-07T11:14:15.626] [ERROR] error - ReferenceError: query is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:12:53
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:346:16
+[2022-03-07T11:14:23.163] [ERROR] error - ReferenceError: query is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:12:53
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:346:16
+[2022-03-07T12:12:17.337] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T12:12:18.815] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T12:12:21.277] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T12:12:21.536] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T12:13:47.636] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T12:22:20.816] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T12:25:08.754] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:53:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T12:26:52.630] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T12:27:01.774] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T12:53:34.284] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:16:30.290] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:17:48.248] [ERROR] error - TypeError: Cannot read properties of null (reading 'userId')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:57:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:18:18.454] [ERROR] error - TypeError: Cannot read properties of null (reading 'userId')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:57:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:23:57.459] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:24:05.022] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:25:13.588] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:56:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:33:36.119] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:33:37.648] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:33:43.999] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:33:58.562] [ERROR] error - TypeError: Cannot read properties of null (reading 'menuName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:34:06.422] [ERROR] error - TypeError: Cannot read properties of null (reading 'userId')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:57:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:34:20.479] [ERROR] error - TypeError: Cannot read properties of null (reading 'userId')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:57:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:34:29.023] [ERROR] error - TypeError: Cannot read properties of null (reading 'id')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:34:59.489] [ERROR] error - ReferenceError: dept is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:57:15
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:35:51.223] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:55:25
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T13:36:59.701] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\leave.js:53:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:41:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T16:56:15.099] [ERROR] error - TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Topology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle
+    at JSON.stringify (<anonymous>)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-json@2.0.2\node_modules\koa-json\index.js:50:32
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T16:56:30.150] [ERROR] error - TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Topology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle
+    at JSON.stringify (<anonymous>)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-json@2.0.2\node_modules\koa-json\index.js:50:32
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T16:56:32.655] [ERROR] error - TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Topology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle
+    at JSON.stringify (<anonymous>)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-json@2.0.2\node_modules\koa-json\index.js:50:32
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-07T16:56:35.781] [ERROR] error - TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Topology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle
+    at JSON.stringify (<anonymous>)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-json@2.0.2\node_modules\koa-json\index.js:50:32
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)

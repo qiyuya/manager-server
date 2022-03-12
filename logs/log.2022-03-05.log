@@ -1,0 +1,24 @@
+[2022-03-05T19:08:11.305] [ERROR] error - ReferenceError: routList is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\depts.js:13:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:40:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-05T19:08:13.110] [ERROR] error - ReferenceError: routList is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\depts.js:13:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:40:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-05T19:11:17.070] [ERROR] error - ReferenceError: routList is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\depts.js:13:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:40:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-05T19:20:53.902] [ERROR] error - ReferenceError: ctx is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\users.js:72:5
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:40:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)

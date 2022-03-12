@@ -1,0 +1,80 @@
+[2022-03-06T10:07:50.334] [ERROR] error - ReferenceError: jwt is not defined
+    at Object.decoded (C:\Users\Administrator\Desktop\UNTITLED\manager-server\utils\util.js:43:7)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\users.js:138:23
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@4.1.0\node_modules\koa-compose\index.js:42:32)
+    at jwt (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-jwt@4.0.3\node_modules\koa-jwt\lib\index.js:73:16)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:40:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-06T10:21:51.798] [ERROR] error - ReferenceError: getTreeMenu is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\utils\util.js:58:5
+    at Array.map (<anonymous>)
+    at Object.getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\utils\util.js:56:8)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:40:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-06T10:22:20.525] [ERROR] error - ReferenceError: getTreeMenu is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\utils\util.js:58:5
+    at Array.map (<anonymous>)
+    at Object.getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\utils\util.js:56:8)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:40:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-06T10:22:21.268] [ERROR] error - ReferenceError: getTreeMenu is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\utils\util.js:58:5
+    at Array.map (<anonymous>)
+    at Object.getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\utils\util.js:56:8)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:40:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-06T10:27:13.952] [ERROR] error - ReferenceError: userInfo is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\users.js:141:27
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@4.1.0\node_modules\koa-compose\index.js:42:32)
+    at jwt (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-jwt@4.0.3\node_modules\koa-jwt\lib\index.js:73:16)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:40:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-06T10:28:11.021] [ERROR] error - ReferenceError: userInfo is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\users.js:141:27
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@4.1.0\node_modules\koa-compose\index.js:42:32)
+    at jwt (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-jwt@4.0.3\node_modules\koa-jwt\lib\index.js:73:16)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:40:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-06T10:29:09.890] [ERROR] error - ReferenceError: userInfo is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\users.js:141:27
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@3.2.1\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-router@7.4.0\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-compose@4.1.0\node_modules\koa-compose\index.js:42:32)
+    at jwt (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-jwt@4.0.3\node_modules\koa-jwt\lib\index.js:73:16)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:40:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)

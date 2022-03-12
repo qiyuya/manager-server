@@ -1,0 +1,208 @@
+[2022-03-02T11:32:04.054] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:32:04.062] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:32:05.286] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:33:32.347] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:34:46.711] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:34:46.717] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:35:40.610] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:35:40.614] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:35:51.969] [ERROR] error - ReferenceError: getTreeMenu is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:35:51.977] [ERROR] error - ReferenceError: getTreeMenu is not defined
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:36:46.675] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:36:46.683] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:36:47.856] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:46:51.868] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:46:51.876] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:46:53.759] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:46:54.799] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:46:56.661] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:50:57.637] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:50:57.645] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:52:16.308] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:52:16.316] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:52:17.957] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:53:38.206] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:53:38.215] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:53:41.030] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:54:59.972] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:55:01.566] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:55:34.713] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
+[2022-03-02T11:55:45.733] [ERROR] error - ReferenceError: routList is not defined
+    at getTreeMenu (C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:21:16)
+    at C:\Users\Administrator\Desktop\UNTITLED\manager-server\routes\menus.js:14:26
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\UNTITLED\manager-server\app.js:38:3
+    at async serve (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-static@5.0.0\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\Administrator\Desktop\UNTITLED\manager-server\node_modules\.pnpm\koa-bodyparser@4.3.0\node_modules\koa-bodyparser\index.js:95:5)
