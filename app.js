@@ -15,7 +15,9 @@ const menus = require('./routes/menus')
 const roles = require('./routes/roles')
 const depts = require('./routes/depts')
 const leave = require('./routes/leave')
-
+//-g global
+//-D --save-dev
+//-S --save
 // error handler
 onerror(app)
 
@@ -67,5 +69,7 @@ app.use(router.routes(), router.allowedMethods())
 app.on('error', (err, ctx) => {
   log4js.error(`${err.stack}`)
 });
-
+app.listen(9000, () => {
+  console.log('监听再9000端口')
+})
 module.exports = app

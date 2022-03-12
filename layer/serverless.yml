@@ -1,0 +1,11 @@
+component: layer
+app: koaDemo
+name: koaDemo-layer
+stage: dev
+
+inputs:
+  region: ap-guangzhou
+  name: ${name}
+  src: ../node_modules # 将 node_modules 打包上传
+  runtimes:
+    - Nodejs12.16
